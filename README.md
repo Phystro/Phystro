@@ -1,6 +1,6 @@
 ### Phystro - PhyTensor 👋
 
-## Theoretical Physicist. Linux.
+#### Theoretical Physicist. Linux.
 
 <!--
 **Phystro/Phystro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
