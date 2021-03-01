@@ -16,16 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Skills
+---
+
+### Skills
 
 <p>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phystro" />
-<img src="https://github-readme-stats.vercel.app/api?username=Phystro&show_icons=true&hide=commits" />
+---
+### Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phystro" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Phystro&show_icons=true&hide=commits" />
