@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ### Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phystro" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Phystro&show_icons=true&hide=commits" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Phystro&show_icons=true&hide=commits" /> -->
