@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img src="images/quantum-mechanics.jpg"/>
+<!-- <img src="images/quantum-mechanics.jpg"/> -->
 
 ---
 
